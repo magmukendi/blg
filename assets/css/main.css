@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+
+
+body, html, span, footer, main, nav, header, h1, h2, h3, h4, h5, h6, p, a, li, ul, ol {
+    font-family: 'Cormorant Garamond', serif !important;
+}
+.post-main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+.post-preview{
+    a:hover{
+        color:green;
+    }
+}

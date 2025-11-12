@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "i officially became a volunteer at montreal python"
+background: '/assets/bg.png'
 date:   2025-10-16 18:21:20 -0400
 categories: tech
 ---
