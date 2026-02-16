@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ma blg
+title: mag blg
 email: mag@243studio.me
 description: >- # this means to ignore newlines until "baseurl:"
   a blg where i share about my engineering life, science, arts and life.
